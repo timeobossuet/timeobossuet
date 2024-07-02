@@ -1,16 +1,4 @@
 ### Hi there 👋
-
-As a French student, I am exploring the financial world with a combination of computing and a scientific mindset. 
-Currently, I am keeping most of my projects under wraps, as they are often for corporate clients such as the one at this link: https://video.echo-da.fr. 
-
-If you require my assistance or access to my code, please reach out to me at timeobossuet@gmail.com
-
-I recently made this project but it's in development:
-https://github.com/tanapgp/tana
-
-### 🌱 Learning...
-Encryption algorithms (mathematical approach); creation of a secure dapp' calandar.
-
 <!--
 **timeobossuet/timeobossuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
